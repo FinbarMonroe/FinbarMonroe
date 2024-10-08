@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mr.M0nroe
 - 👀 I’m interested in: Ethcial Hacking, Programming and CyberSecurity
-- 🌱 I’m currently learning: Python, Java and C++ and also Ethical Hacking
+- 🌱 I’m currently Studying for my COMPTIA+ and the COMPTIA+ Security and CEH
 - 💞️ I’m looking to collaborate on: [NOTHING]
-- 📫 How to reach me ... Here OFC!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have Autism
 
